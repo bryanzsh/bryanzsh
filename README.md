@@ -17,7 +17,8 @@ operativos Linux y Windows, programación con Python y Shell Script en Bash, y h
 <br>
 
 <p align="center">
-	-
+
+'
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Bash Linux](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
