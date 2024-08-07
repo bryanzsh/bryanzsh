@@ -18,7 +18,7 @@ operativos Linux y Windows, programación con Python y Shell Script en Bash, y h
 
  <div align="right"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+			<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bryan-alexis-vitor-diaz) 
