@@ -14,8 +14,8 @@ operativos Linux y Windows, programación con Python y Shell Script en Bash, y h
 
 [![My Skills](https://skillicons.dev/icons?i=arch,bash,py,docker,kali,linux,neovim,windows)](https://skillicons.dev)
 
-<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/bryan-alexis-vitor-diaz/">
-<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/bryan-alexis-vitor-diaz/"> Linkedin
+<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"></a>
 
 
 <br>
