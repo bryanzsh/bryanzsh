@@ -17,6 +17,9 @@ operativos Linux y Windows, programación con Python y Shell Script en Bash, y h
 
 [![My Skills](https://skillicons.dev/icons?i=arch,bash,py,docker,kali,linux,neovim)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 <br>
 
