@@ -14,8 +14,8 @@ operativos Linux y Windows, programación con Python y Shell Script en Bash, y h
 
 <img src="https://www.redeszone.net/app/uploads-redeszone.net/2015/06/Cisco_CCNA.png" width=70px></a>
 <img src="https://ingenio.edu.pe/storage/blog/wp-content/uploads/2023/07/certificacion-nse-4-fortinet-250x250.png" width=70px></a>
-<img src="https://blog.boll.ch/wp-content/uploads/2020/06/FNT-PANW1.png" width=70px></a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width=70px></a>
+<img src="https://blog.boll.ch/wp-content/uploads/2020/06/FNT-PANW1.png" width=290px></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width=50px></a>
 <img src="https://ingenio.edu.pe/storage/blog/wp-content/uploads/2023/07/certificacion-nse-4-fortinet-250x250.png" width=70px></a>
 
 
