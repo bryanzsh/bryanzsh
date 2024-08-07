@@ -1,12 +1,8 @@
 
 <h1 align="center"><b>Hi , I'm Bryan</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
-
+<!--  -->
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 Administrador de Redes y Comunicaciones con experiencia en Firewalls IDS/IPS , Linux, Ethical Hacking (OWASP TOP 10), CTFs,
@@ -15,8 +11,7 @@ Windows Server ADDC, equipos Cisco, Huawei y Mikrotik, virtualización, y servic
 Certificado en CCNA Cisco, NSE4 Fortinet Network Security Professional, Linux Essentials, Ethical Hacking y Cloud Computing. Habilidades en la 
 configuración de equipos de seguridad perimetral firewalls Fortinet y Palo Alto. Sólidos conocimientos en pruebas de penetración web, sistemas 
 operativos Linux y Windows, programación con Python y Shell Script en Bash, y herramientas de monitoreo como Zabbix, Cacti y Grafana.
-
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
