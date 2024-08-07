@@ -15,7 +15,7 @@ operativos Linux y Windows, programación con Python y Shell Script en Bash, y h
 [![My Skills](https://skillicons.dev/icons?i=arch,bash,py,docker,kali,linux,neovim,windows)](https://skillicons.dev)
 
 <a style="margin-left: 10px;"  target="_blank" href=#>
-<img src="[https://img.icons8.com/?size=50&id=13930&format=png&color=000000](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcokonet.com%2Fcourse%2Fccna-1&psig=AOvVaw1r9UX2gA9sYLweyOwoQHTP&ust=1723161080340000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDkwcaJ5IcDFQAAAAAdAAAAABAE)"></a>
+<img src="https://coko-bucket.s3.ap-south-1.amazonaws.com/ccna_0eb65021d9.png"></a>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Socials</b>
