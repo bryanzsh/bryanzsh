@@ -19,8 +19,7 @@ operativos Linux y Windows, programación con Python y Shell Script en Bash, y h
 
 <br>
 
-![Cisco](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev) PYTHON
 [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
