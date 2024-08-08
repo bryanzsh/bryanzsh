@@ -16,6 +16,10 @@ operativos Linux y Windows, programación con Python y Shell Script en Bash, y h
 <img src="https://ingenio.edu.pe/storage/blog/wp-content/uploads/2023/07/certificacion-nse-4-fortinet-250x250.png" width=70px></a>
 <img src="https://blog.boll.ch/wp-content/uploads/2020/06/FNT-PANW1.png" width=170px></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width=63px></a>
+
+<img src="https://www.uc3m.es/sdic/media/sdic/img/mediana/original/im_microsoft-ssoo-cliente---icono/im_microsoft-ssoo-cliente---icono.png" width=70px></a>
+<img src="https://www.eccouncil.org/wp-content/uploads/2024/06/EHE-LOGO.png" width=70px></a>
+<img src="https://ingenio.edu.pe/storage/blog/wp-content/uploads/2023/07/certificacion-nse-4-fortinet-250x250.png" width=70px></a>
 <img src="https://ingenio.edu.pe/storage/blog/wp-content/uploads/2023/07/certificacion-nse-4-fortinet-250x250.png" width=70px></a>
 
 
