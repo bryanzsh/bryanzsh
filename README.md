@@ -13,6 +13,7 @@ operativos Linux y Windows, programación con Python y Shell Script en Bash, y h
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <img src="https://www.redeszone.net/app/uploads-redeszone.net/2015/06/Cisco_CCNA.png" width=70px></a>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Huawei_Standard_logo.svg/1200px-Huawei_Standard_logo.svg.png" width=140px></a>
 <img src="https://ingenio.edu.pe/storage/blog/wp-content/uploads/2023/07/certificacion-nse-4-fortinet-250x250.png" width=70px></a>
 <img src="https://media.licdn.com/dms/image/D560BAQFIQ_eNe9b1jg/company-logo_200_200/0/1688016806462/fortinet_logo?e=2147483647&v=beta&t=_nWDlK8lf2-LtGn673GdBivKrrskZyEpgIZQziHretk" width=70px></a>
 <img src="https://cdn.stratuscloud.co.za/wp-content/uploads/2020/11/Palo-Alto-Networks.png" width=85px></a>
@@ -22,8 +23,9 @@ operativos Linux y Windows, programación con Python y Shell Script en Bash, y h
 <img src="https://entrenamiento-python-basico.readthedocs.io/es/latest/_static/python_37.png" width=80px></a>
 <img src="https://rsg-ecuador.github.io/unix.bioinfo.rsgecuador/_images/bash.png" width=180px></a>
 <img src="https://bits.com.mx/wp-content/uploads/2024/02/crowdd.png" width=140px></a>
+<img src="https://jblazquez.es/wp-content/uploads/2023/11/docker.png" width=110px></a>
 
-<img src="https://jblazquez.es/wp-content/uploads/2023/11/docker.png" width=140px></a>
+
 <img src="https://bits.com.mx/wp-content/uploads/2024/02/crowdd.png" width=140px></a>
 <img src="https://bits.com.mx/wp-content/uploads/2024/02/crowdd.png" width=140px></a>
 
