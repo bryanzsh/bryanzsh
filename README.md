@@ -5,8 +5,6 @@
 Administrador de Redes y Comunicaciones con experiencia en Firewalls IDS/IPS , Linux, Ethical Hacking (OWASP TOP 10), CTFs,
 Windows Server ADDC, equipos Cisco, Huawei y Mikrotik, virtualización, y servicios en la nube (AWS, GCP, Azure). 
 
-<br>
-
 Certificado en CCNA Cisco, NSE4 Fortinet Network Security Professional, Linux Essentials, Ethical Hacking y Cloud Computing. Habilidades en la 
 configuración de equipos de seguridad perimetral firewalls Fortinet y Palo Alto. Sólidos conocimientos en pruebas de penetración web, sistemas 
 operativos Linux y Windows, programación con Python y Shell Script en Bash, y herramientas de monitoreo como Zabbix, Cacti y Grafana.
