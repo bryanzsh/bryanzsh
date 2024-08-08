@@ -11,7 +11,6 @@ operativos Linux y Windows, programación con Python y Shell Script en Bash, y h
 <br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Certifications / Certificaciones</b>
 <a style="margin-left: 10px;"  target="_blank" href="https://www.credly.com/badges/b9af97a3-bfed-4b89-a2aa-34fe51b4e0c9/linked_in_profile"><img src="https://www.redeszone.net/app/uploads-redeszone.net/2015/06/Cisco_CCNA.png" width=70px></a>
-
 <img src="https://ingenio.edu.pe/storage/blog/wp-content/uploads/2023/07/certificacion-nse-4-fortinet-250x250.png" width=70px></a>
 <img src="https://images.credly.com/size/340x340/images/7822016c-371e-45c9-9a99-4f5e28d1d0f0/image.png" width=70px></a>
 <img src="https://home.pearsonvue.com/getattachment/Clients/LPI/Essentials-Linux.jpg.aspx?lang=en-US" width=72px></a>
