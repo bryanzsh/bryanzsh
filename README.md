@@ -10,13 +10,13 @@ configuración de equipos de seguridad perimetral firewalls Fortinet y Palo Alto
 operativos Linux y Windows, programación con Python y Shell Script en Bash, y herramientas de monitoreo como Zabbix, Cacti y Grafana.
 <br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Certifications / Certificaciones</b>
-<a style="margin-left: 10px;"  target="_blank" href="https://www.credly.com/badges/b9af97a3-bfed-4b89-a2aa-34fe51b4e0c9/linked_in_profile"><img src="https://www.redeszone.net/app/uploads-redeszone.net/2015/06/Cisco_CCNA.png" width=70px></a>
-<img src="https://ingenio.edu.pe/storage/blog/wp-content/uploads/2023/07/certificacion-nse-4-fortinet-250x250.png" width=70px></a>
-<img src="https://images.credly.com/size/340x340/images/7822016c-371e-45c9-9a99-4f5e28d1d0f0/image.png" width=70px></a>
-<img src="https://home.pearsonvue.com/getattachment/Clients/LPI/Essentials-Linux.jpg.aspx?lang=en-US" width=72px></a>
-<img src="https://www.softsell.com.br/wp-content/uploads/elementor/thumbs/EHE_logo-branca-qf637m6vt2ipzjh1hj2ueoqmpnfbd0v8rbgq6ll7wg.png" width=80px></a>
-<img src="https://bits.com.mx/wp-content/uploads/2024/02/crowdd.png" width=150px></a>
-<img src="https://certiprof.com/cdn/shop/files/CybersecurityAwareness.webp?v=1721655308" width=90px></a>
+<a style="margin-left: 10px;"  target="_blank" href="https://drive.google.com/file/d/1fzDXI-E8YLgj6Nm4361Of79Jn97LDwkC/view?usp=sharing"><img src="https://www.redeszone.net/app/uploads-redeszone.net/2015/06/Cisco_CCNA.png" width=70px></a>
+<a style="margin-left: 10px;"  target="_blank" href="https://credly.com/badges/29f219e3-39b4-4ee0-bfdd-0661e4b98534"><img src="https://ingenio.edu.pe/storage/blog/wp-content/uploads/2023/07/certificacion-nse-4-fortinet-250x250.png" width=70px></a>
+<a style="margin-left: 10px;"  target="_blank" href="https://credly.com/badges/29f219e3-39b4-4ee0-bfdd-0661e4b98534"><img src="https://images.credly.com/size/340x340/images/7822016c-371e-45c9-9a99-4f5e28d1d0f0/image.png" width=70px></a>
+<a style="margin-left: 10px;"  target="_blank" href="https://drive.google.com/file/d/1-v2NESJM1rEFnOXmWDbl0Wrq73fvCFs0/view?usp=drive_link"><img src="https://home.pearsonvue.com/getattachment/Clients/LPI/Essentials-Linux.jpg.aspx?lang=en-US" width=72px></a>
+<a style="margin-left: 10px;"  target="_blank" href="https://codered.eccouncil.org/certificate/52c989d0-1c70-4a33-adcb-7f854893420e?logged=true"><img src="https://www.softsell.com.br/wp-content/uploads/elementor/thumbs/EHE_logo-branca-qf637m6vt2ipzjh1hj2ueoqmpnfbd0v8rbgq6ll7wg.png" width=80px></a>
+<a style="margin-left: 10px;"  target="_blank" href="https://drive.google.com/file/d/1ib7y-_K6iYL7kDMIYe7e3tF9vMiQ5L5D/view?usp=sharing"><img src="https://bits.com.mx/wp-content/uploads/2024/02/crowdd.png" width=150px></a>
+<a style="margin-left: 10px;"  target="_blank" href="https://www.credly.com/badges/9dd470e5-1090-42e7-bf86-7f580c974368/public_url"><img src="https://certiprof.com/cdn/shop/files/CybersecurityAwareness.webp?v=1721655308" width=90px></a>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills / Habilidades</b>
