@@ -14,6 +14,8 @@ operativos Linux y Windows, programación con Python y Shell Script en Bash, y h
 <img src="https://ingenio.edu.pe/storage/blog/wp-content/uploads/2023/07/certificacion-nse-4-fortinet-250x250.png" width=70px></a>
 <img src="https://www.softsell.com.br/wp-content/uploads/elementor/thumbs/EHE_logo-branca-qf637m6vt2ipzjh1hj2ueoqmpnfbd0v8rbgq6ll7wg.png" width=80px></a>
 <img src="https://bits.com.mx/wp-content/uploads/2024/02/crowdd.png" width=140px></a>
+<img src="https://certiprof.com/cdn/shop/files/CybersecurityAwareness.webp?v=1721655308" width=80px></a>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills / Habilidades</b>
 
