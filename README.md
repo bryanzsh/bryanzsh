@@ -10,7 +10,7 @@ configuración de equipos de seguridad perimetral firewalls Fortinet y Palo Alto
 operativos Linux y Windows, programación con Python y Shell Script en Bash, y herramientas de monitoreo como Zabbix, Cacti y Grafana.
 <br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Certifications / Certificaciones</b>
-<a style="margin-left: 10px;"  target="_blank" href="https://drive.google.com/file/d/1fzDXI-E8YLgj6Nm4361Of79Jn97LDwkC/view?usp=sharing"><img src="https://www.redeszone.net/app/uploads-redeszone.net/2015/06/Cisco_CCNA.png" width=70px></a>
+<a style="margin-left: 10px;"  target="_blank" href="https://drive.google.com/file/d/1fzDXI-E8YLgj6Nm4361Of79Jn97LDwkC/view?usp=sharing"><img src="https://www.redeszone.net/app/uploads-redeszone.net/2015/06/Cisco_CCNA.png" width=78px></a>
 <a style="margin-left: 10px;"  target="_blank" href="https://credly.com/badges/29f219e3-39b4-4ee0-bfdd-0661e4b98534"><img src="https://ingenio.edu.pe/storage/blog/wp-content/uploads/2023/07/certificacion-nse-4-fortinet-250x250.png" width=70px></a>
 <a style="margin-left: 10px;"  target="_blank" href="https://credly.com/badges/29f219e3-39b4-4ee0-bfdd-0661e4b98534"><img src="https://images.credly.com/size/340x340/images/7822016c-371e-45c9-9a99-4f5e28d1d0f0/image.png" width=70px></a>
 <a style="margin-left: 10px;"  target="_blank" href="https://drive.google.com/file/d/1-v2NESJM1rEFnOXmWDbl0Wrq73fvCFs0/view?usp=drive_link"><img src="https://home.pearsonvue.com/getattachment/Clients/LPI/Essentials-Linux.jpg.aspx?lang=en-US" width=72px></a>
