@@ -19,7 +19,7 @@ operativos Linux y Windows, programación con Python y Shell Script en Bash, y h
 <img src="https://www.uc3m.es/sdic/media/sdic/img/mediana/original/im_microsoft-ssoo-cliente---icono/im_microsoft-ssoo-cliente---icono.png" width=75px></a>
 <img src="https://www.softsell.com.br/wp-content/uploads/elementor/thumbs/EHE_logo-branca-qf637m6vt2ipzjh1hj2ueoqmpnfbd0v8rbgq6ll7wg.png" width=80px></a>
 <img src="https://entrenamiento-python-basico.readthedocs.io/es/latest/_static/python_37.png" width=80px></a>
-<img src="https://rsg-ecuador.github.io/unix.bioinfo.rsgecuador/_images/bash.png" width=100px></a>
+<img src="https://rsg-ecuador.github.io/unix.bioinfo.rsgecuador/_images/bash.png" width=250px></a>
 
 
 
