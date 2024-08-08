@@ -13,7 +13,7 @@ operativos Linux y Windows, programación con Python y Shell Script en Bash, y h
 <img src="https://www.redeszone.net/app/uploads-redeszone.net/2015/06/Cisco_CCNA.png" width=70px></a>
 <img src="https://ingenio.edu.pe/storage/blog/wp-content/uploads/2023/07/certificacion-nse-4-fortinet-250x250.png" width=70px></a>
 <img src="https://images.credly.com/size/340x340/images/7822016c-371e-45c9-9a99-4f5e28d1d0f0/image.png" width=70px></a>
-<img src="https://home.pearsonvue.com/getattachment/Clients/LPI/Essentials-Linux.jpg.aspx?lang=en-US" width=76px></a>
+<img src="https://home.pearsonvue.com/getattachment/Clients/LPI/Essentials-Linux.jpg.aspx?lang=en-US" width=72px></a>
 <img src="https://www.softsell.com.br/wp-content/uploads/elementor/thumbs/EHE_logo-branca-qf637m6vt2ipzjh1hj2ueoqmpnfbd0v8rbgq6ll7wg.png" width=80px></a>
 <img src="https://bits.com.mx/wp-content/uploads/2024/02/crowdd.png" width=150px></a>
 <img src="https://certiprof.com/cdn/shop/files/CybersecurityAwareness.webp?v=1721655308" width=90px></a>
