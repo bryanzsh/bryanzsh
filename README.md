@@ -25,7 +25,7 @@ operativos Linux y Windows, programación con Python y Shell Script en Bash, y h
 <img src="https://bits.com.mx/wp-content/uploads/2024/02/crowdd.png" width=140px></a>
 <img src="https://jblazquez.es/wp-content/uploads/2023/11/docker.png" width=110px></a>
 <img src="https://silofy.gallerycdn.vsassets.io/extensions/silofy/hackthebox/0.2.9/1629722910669/Microsoft.VisualStudio.Services.Icons.Default" width=70px></a>
-<img src="https://repository-images.githubusercontent.com/518509014/f7450454-158c-45e0-8b38-0c0ae4d7394c" width=70px></a>
+<img src="https://repository-images.githubusercontent.com/518509014/f7450454-158c-45e0-8b38-0c0ae4d7394c" width=120px></a>
 
 
 
