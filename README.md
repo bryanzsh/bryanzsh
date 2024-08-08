@@ -9,6 +9,7 @@ Certificado en CCNA Cisco, NSE4 Fortinet Network Security Professional, Linux Es
 configuración de equipos de seguridad perimetral firewalls Fortinet y Palo Alto. Sólidos conocimientos en pruebas de penetración web, sistemas 
 operativos Linux y Windows, programación con Python y Shell Script en Bash, y herramientas de monitoreo como Zabbix, Cacti y Grafana.
 <br>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Certifications / Certificaciones</b>
 <a style="margin-left: 10px;"  target="_blank" href="https://drive.google.com/file/d/1fzDXI-E8YLgj6Nm4361Of79Jn97LDwkC/view?usp=sharing"><img src="https://www.redeszone.net/app/uploads-redeszone.net/2015/06/Cisco_CCNA.png" width=74px></a>
 <a style="margin-left: 10px;"  target="_blank" href="https://credly.com/badges/29f219e3-39b4-4ee0-bfdd-0661e4b98534"><img src="https://ingenio.edu.pe/storage/blog/wp-content/uploads/2023/07/certificacion-nse-4-fortinet-250x250.png" width=70px></a>
