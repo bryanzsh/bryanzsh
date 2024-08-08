@@ -21,6 +21,7 @@ operativos Linux y Windows, programación con Python y Shell Script en Bash, y h
 <img src="https://www.softsell.com.br/wp-content/uploads/elementor/thumbs/EHE_logo-branca-qf637m6vt2ipzjh1hj2ueoqmpnfbd0v8rbgq6ll7wg.png" width=80px></a>
 <img src="https://entrenamiento-python-basico.readthedocs.io/es/latest/_static/python_37.png" width=80px></a>
 <img src="https://rsg-ecuador.github.io/unix.bioinfo.rsgecuador/_images/bash.png" width=180px></a>
+<img src="https://bits.com.mx/wp-content/uploads/2024/02/crowdd.png" width=80px></a>
 
 
 
