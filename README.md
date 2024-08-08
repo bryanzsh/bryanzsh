@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Bryan</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Bryan / Hola, Soy Bryan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <h1 align="left"><b> 💫 About Me / Acerca de mi</b></h1>
 Administrador de Redes y Comunicaciones con experiencia en Firewalls IDS/IPS , Linux, Ethical Hacking (OWASP TOP 10), CTFs, Windows Server ADDC, equipos Cisco, Huawei y Mikrotik, virtualización, y servicios en la nube (AWS, GCP, Azure). 
