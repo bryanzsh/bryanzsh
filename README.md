@@ -39,7 +39,7 @@ operativos Linux y Windows, programación con Python y Shell Script en Bash, y h
 <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/bryan-alexis-vitor-diaz/">
 <img src="https://img.icons8.com/?size=90&id=13930&format=png&color=000000"></a>
 <a style="margin-left: 10px;"  target="_blank" href="https://open.spotify.com/user/k7lpc0bc8qufqjgsd8pwfkieg?si=85cb1ff616eb4374&nd=1&dlsi=4a3ff000379542e6">
-<img src="https://cdn2.downdetector.com/static/uploads/logo/Spotify_Logo_RGB_Green.png"></a>
+<img src="https://cdn2.downdetector.com/static/uploads/logo/Spotify_Logo_RGB_Green.png" width=110px></a>
 
 
 
