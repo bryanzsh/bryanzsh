@@ -2,11 +2,7 @@
 <h1 align="center"><b>Hi , I'm Bryan / Hola, Soy Bryan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <h1 align="left"><b> 💫 About Me / Acerca de mi</b></h1>
-Administrador de Redes y Comunicaciones con experiencia en Firewalls IDS/IPS , Linux, Ethical Hacking (OWASP TOP 10), CTFs, Windows Server ADDC, equipos Cisco, Huawei y Mikrotik, virtualización, y servicios en la nube (AWS, GCP, Azure). 
-
-Certificado en CCNA Cisco, NSE4 Fortinet Network Security Professional, Linux Essentials, Ethical Hacking y Cloud Computing. Habilidades en la 
-configuración de equipos de seguridad perimetral firewalls Fortinet y Palo Alto. Sólidos conocimientos en pruebas de penetración web, sistemas 
-operativos Linux y Windows, programación con Python y Shell Script en Bash, y herramientas de monitoreo como Zabbix, Cacti y Grafana.
+Adm. de Redes y Comunicaciones/Analista de Ciberseguridad con más de 1 año de experiencia en ciberseguridad, Ethical Hacking, OWASP, experiencia en plataformas SIEM, EDR, XDR (IBM QRadar, Splunk, Microsoft Sentinel/Defender, TrendMicro, SentinelONE, FortiSIEM, CrowdStrike, New Relic), experiencia en analisis y levantamiento de vulnerabilidades web y movil. Monitoreo SOC/NOC, análisis de malware y administración de sistemas Linux/Windows. Certificado en CCNA, NSE4 Fortinet, Ethical Hacking, QRadar SIEM, CrowdStrike, Google Cloud, EJPT, LPI Linux.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Certifications / Certificaciones</b>
 <a style="margin-left: 10px;"  target="_blank" href="https://drive.google.com/file/d/1fzDXI-E8YLgj6Nm4361Of79Jn97LDwkC/view?usp=sharing"><img src="https://www.redeszone.net/app/uploads-redeszone.net/2015/06/Cisco_CCNA.png" width=74px></a>
