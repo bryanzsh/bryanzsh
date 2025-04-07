@@ -12,7 +12,7 @@ Adm. de Redes y Comunicaciones/Analista de Ciberseguridad con más de 1 año de 
 <a style="margin-left: 10px;"  target="_blank" href="https://codered.eccouncil.org/certificate/52c989d0-1c70-4a33-adcb-7f854893420e?logged=true"><img src="https://www.softsell.com.br/wp-content/uploads/elementor/thumbs/EHE_logo-branca-qf637m6vt2ipzjh1hj2ueoqmpnfbd0v8rbgq6ll7wg.png" width=100px></a>
 <a style="margin-left: 10px;"  target="_blank" href="https://drive.google.com/file/d/1ib7y-_K6iYL7kDMIYe7e3tF9vMiQ5L5D/view?usp=sharing"><img src="https://bits.com.mx/wp-content/uploads/2024/02/crowdd.png" width=150px></a>
 <a style="margin-left: 10px;"  target="_blank" href="https://www.credly.com/badges/9dd470e5-1090-42e7-bf86-7f580c974368/public_url"><img src="https://certiprof.com/cdn/shop/files/CybersecurityAwareness.webp?v=1721655308" width=90px></a>
-<a style="margin-left: 10px;"  target="_blank" href="https://void4m0n.github.io/eJPT/"><img src="https://void4m0n.github.io//assets/images/eJPT/new_eJPT.png" width=80px></a>
+<a style="margin-left: 10px;"  target="_blank" href="https://void4m0n.github.io/eJPT/"><img src="https://void4m0n.github.io//assets/images/eJPT/new_eJPT.png" width=70px></a>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills / Habilidades</b>
