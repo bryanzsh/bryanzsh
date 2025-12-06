@@ -23,7 +23,7 @@ Administrador de Redes y Comunicaciones con sólida experiencia en cibersegurida
 <img src="https://cdn.stratuscloud.co.za/wp-content/uploads/2020/11/Palo-Alto-Networks.png" width=85px></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width=63px></a>
 <img src="https://pbs.twimg.com/profile_images/1841907755483054080/G_jONJFv_400x400.png" width=75px></a>
-<img src="https://www.programaenlinea.net/wp-content/uploads/2024/10/Python-Emblem.png" width=80px></a>
+<img src="https://appxcontent.kaxa.in/paid_course3/2024-10-15-0.3724774982995829.png" width=80px></a>
 <img src="https://rsg-ecuador.github.io/unix.bioinfo.rsgecuador/_images/bash.png" width=140px></a>
 <img src="https://jblazquez.es/wp-content/uploads/2023/11/docker.png" width=110px></a>
 <img src="https://silofy.gallerycdn.vsassets.io/extensions/silofy/hackthebox/0.2.9/1629722910669/Microsoft.VisualStudio.Services.Icons.Default" width=70px></a>
