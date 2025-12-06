@@ -22,8 +22,8 @@ Administrador de Redes y Comunicaciones con sólida experiencia en cibersegurida
 <img src="https://media.licdn.com/dms/image/D560BAQFIQ_eNe9b1jg/company-logo_200_200/0/1688016806462/fortinet_logo?e=2147483647&v=beta&t=_nWDlK8lf2-LtGn673GdBivKrrskZyEpgIZQziHretk" width=70px></a>
 <img src="https://cdn.stratuscloud.co.za/wp-content/uploads/2020/11/Palo-Alto-Networks.png" width=85px></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width=63px></a>
-<img src="https://www.uc3m.es/sdic/media/sdic/img/mediana/original/im_microsoft-ssoo-cliente---icono/im_microsoft-ssoo-cliente---icono.png" width=75px></a>
-<img src="https://entrenamiento-python-basico.readthedocs.io/es/latest/_static/python_37.png" width=80px></a>
+<img src="https://pbs.twimg.com/profile_images/1841907755483054080/G_jONJFv_400x400.png" width=75px></a>
+<img src="https://www.programaenlinea.net/wp-content/uploads/2024/10/Python-Emblem.png" width=80px></a>
 <img src="https://rsg-ecuador.github.io/unix.bioinfo.rsgecuador/_images/bash.png" width=140px></a>
 <img src="https://jblazquez.es/wp-content/uploads/2023/11/docker.png" width=110px></a>
 <img src="https://silofy.gallerycdn.vsassets.io/extensions/silofy/hackthebox/0.2.9/1629722910669/Microsoft.VisualStudio.Services.Icons.Default" width=70px></a>
