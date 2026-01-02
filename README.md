@@ -13,6 +13,7 @@ Administrador de Redes y Comunicaciones con sólida experiencia en cibersegurida
 <a style="margin-left: 10px;"  target="_blank" href="https://drive.google.com/file/d/1ib7y-_K6iYL7kDMIYe7e3tF9vMiQ5L5D/view?usp=sharing"><img src="https://bits.com.mx/wp-content/uploads/2024/02/crowdd.png" width=150px></a>
 <a style="margin-left: 10px;"  target="_blank" href="https://www.credly.com/badges/9dd470e5-1090-42e7-bf86-7f580c974368/public_url"><img src="https://certiprof.com/cdn/shop/files/CybersecurityAwareness.webp?v=1721655308" width=90px></a>
 <a style="margin-left: 10px;"  target="_blank" href="https://certs.ine.com/8bc3c359-3523-427c-a195-dd2e9c2ec91d#acc.Do5q3X4C"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmAdAHFeqYU_zRgGKQzh3mglulZxYErryJLg&s" width=70px></a>
+<a style="margin-left: 10px;"  target="_blank" href="https://certs.ine.com/8bc3c359-3523-427c-a195-dd2e9c2ec91d#acc.Do5q3X4C"><img src="https://assets.ine.com/certifications/badges/eWPTX.png" width=70px></a>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills / Habilidades</b>
